@@ -1,4 +1,21 @@
 # Client Task C #
 # Add your pseudocode to this file below this line: #
-# ------------------------------------------------- #
+# Start loop:
+   1 item = '1 chicken soup can'
+   1 chicken soup package = 'item + 1'
+
+if chicken soup package = 'item + 1'
+  print '(1) chicken soup package, (2) Chicken soup can '
+
+if chicken soup package + 1 = 'item + 1. item + 1'
+  print '(2) chicken soup package, (4) Chicken soup can '
+
+if chicken soup package + 2 = 'item + 1. item + 1, item +1'
+  print '(3) chicken soup package, (6) Chicken soup can '
+
+if chicken soup package + 49 = 'item + 1. item + 1, item +1, (item + 1 = 50)'
+  print '(50) chicken soup package, (100) Chicken soup can '
+
+End loop:
+------------------------------------------------- #
 
